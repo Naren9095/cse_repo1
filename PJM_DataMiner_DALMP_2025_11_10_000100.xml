@@ -1,0 +1,426 @@
+<FeedSearchResult>
+    <Items>
+        <FeedRow>
+            <datetime_beginning_utc>11/11/2025 4:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 11:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>66.45</system_energy_price_da>
+            <total_lmp_da>94.440000</total_lmp_da>
+            <congestion_price_da>25.610000</congestion_price_da>
+            <marginal_loss_price_da>2.380000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/11/2025 3:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 10:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>69.99</system_energy_price_da>
+            <total_lmp_da>94.740000</total_lmp_da>
+            <congestion_price_da>22.400000</congestion_price_da>
+            <marginal_loss_price_da>2.350000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/11/2025 2:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 9:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>75.33</system_energy_price_da>
+            <total_lmp_da>102.370000</total_lmp_da>
+            <congestion_price_da>24.470000</congestion_price_da>
+            <marginal_loss_price_da>2.570000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/11/2025 1:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 8:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>95.77</system_energy_price_da>
+            <total_lmp_da>122.470000</total_lmp_da>
+            <congestion_price_da>23.640000</congestion_price_da>
+            <marginal_loss_price_da>3.060000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/11/2025 12:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 7:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>114.43</system_energy_price_da>
+            <total_lmp_da>144.020000</total_lmp_da>
+            <congestion_price_da>25.710000</congestion_price_da>
+            <marginal_loss_price_da>3.880000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 11:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 6:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>123.83</system_energy_price_da>
+            <total_lmp_da>154.550000</total_lmp_da>
+            <congestion_price_da>26.440000</congestion_price_da>
+            <marginal_loss_price_da>4.280000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 10:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 5:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>128.45</system_energy_price_da>
+            <total_lmp_da>162.640000</total_lmp_da>
+            <congestion_price_da>29.410000</congestion_price_da>
+            <marginal_loss_price_da>4.780000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 9:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 4:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>77.73</system_energy_price_da>
+            <total_lmp_da>96.840000</total_lmp_da>
+            <congestion_price_da>16.130000</congestion_price_da>
+            <marginal_loss_price_da>2.980000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 8:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 3:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>54.94</system_energy_price_da>
+            <total_lmp_da>67.540000</total_lmp_da>
+            <congestion_price_da>10.730000</congestion_price_da>
+            <marginal_loss_price_da>1.870000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 7:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 2:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>49.21</system_energy_price_da>
+            <total_lmp_da>59.600000</total_lmp_da>
+            <congestion_price_da>8.820000</congestion_price_da>
+            <marginal_loss_price_da>1.570000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 6:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 1:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>53.07</system_energy_price_da>
+            <total_lmp_da>62.520000</total_lmp_da>
+            <congestion_price_da>7.810000</congestion_price_da>
+            <marginal_loss_price_da>1.640000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 5:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 12:00:00 PM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>56.44</system_energy_price_da>
+            <total_lmp_da>66.860000</total_lmp_da>
+            <congestion_price_da>8.740000</congestion_price_da>
+            <marginal_loss_price_da>1.680000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 4:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 11:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>53.02</system_energy_price_da>
+            <total_lmp_da>63.920000</total_lmp_da>
+            <congestion_price_da>9.270000</congestion_price_da>
+            <marginal_loss_price_da>1.630000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 3:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 10:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>56.87</system_energy_price_da>
+            <total_lmp_da>68.180000</total_lmp_da>
+            <congestion_price_da>9.460000</congestion_price_da>
+            <marginal_loss_price_da>1.850000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 2:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 9:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>57.24</system_energy_price_da>
+            <total_lmp_da>70.570000</total_lmp_da>
+            <congestion_price_da>11.270000</congestion_price_da>
+            <marginal_loss_price_da>2.060000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 1:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 8:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>65.18</system_energy_price_da>
+            <total_lmp_da>84.950000</total_lmp_da>
+            <congestion_price_da>17.250000</congestion_price_da>
+            <marginal_loss_price_da>2.520000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 12:00:00 PM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 7:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>82.53</system_energy_price_da>
+            <total_lmp_da>109.730000</total_lmp_da>
+            <congestion_price_da>23.910000</congestion_price_da>
+            <marginal_loss_price_da>3.290000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 11:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 6:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>70.45</system_energy_price_da>
+            <total_lmp_da>95.820000</total_lmp_da>
+            <congestion_price_da>22.670000</congestion_price_da>
+            <marginal_loss_price_da>2.700000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 10:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 5:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>46.27</system_energy_price_da>
+            <total_lmp_da>62.020000</total_lmp_da>
+            <congestion_price_da>13.990000</congestion_price_da>
+            <marginal_loss_price_da>1.760000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 9:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 4:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>40.18</system_energy_price_da>
+            <total_lmp_da>54.260000</total_lmp_da>
+            <congestion_price_da>12.400000</congestion_price_da>
+            <marginal_loss_price_da>1.680000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 8:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 3:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>34.54</system_energy_price_da>
+            <total_lmp_da>44.860000</total_lmp_da>
+            <congestion_price_da>8.960000</congestion_price_da>
+            <marginal_loss_price_da>1.360000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 7:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 2:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>32.17</system_energy_price_da>
+            <total_lmp_da>41.120000</total_lmp_da>
+            <congestion_price_da>7.770000</congestion_price_da>
+            <marginal_loss_price_da>1.180000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 6:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 1:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>34.40</system_energy_price_da>
+            <total_lmp_da>44.060000</total_lmp_da>
+            <congestion_price_da>8.340000</congestion_price_da>
+            <marginal_loss_price_da>1.320000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+        <FeedRow>
+            <datetime_beginning_utc>11/10/2025 5:00:00 AM</datetime_beginning_utc>
+            <datetime_beginning_ept>11/10/2025 12:00:00 AM</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+            <pnode_name>BARTONVI</pnode_name>
+            <voltage>34.5 KV</voltage>
+            <equipment>HPHOODCT</equipment>
+            <type>GEN</type>
+            <zone>APS</zone>
+            <system_energy_price_da>37.24</system_energy_price_da>
+            <total_lmp_da>48.620000</total_lmp_da>
+            <congestion_price_da>9.940000</congestion_price_da>
+            <marginal_loss_price_da>1.440000</marginal_loss_price_da>
+            <row_is_current>True</row_is_current>
+            <version_nbr>1</version_nbr>
+        </FeedRow>
+    </Items>
+    <SearchSpecification>
+        <RowCount>50000</RowCount>
+        <Sort>datetime_beginning_ept</Sort>
+        <Order>Desc</Order>
+        <StartRow>1</StartRow>
+        <Fields>
+            <string>congestion_price_da</string>
+            <string>datetime_beginning_ept</string>
+            <string>datetime_beginning_utc</string>
+            <string>equipment</string>
+            <string>marginal_loss_price_da</string>
+            <string>pnode_id</string>
+            <string>pnode_name</string>
+            <string>row_is_current</string>
+            <string>system_energy_price_da</string>
+            <string>total_lmp_da</string>
+            <string>type</string>
+            <string>version_nbr</string>
+            <string>voltage</string>
+            <string>zone</string>
+        </Fields>
+        <Filters>
+            <datetime_beginning_ept>2025-11-10T00:00:00to2025-11-10T23:58:00</datetime_beginning_ept>
+            <pnode_id>1292915420</pnode_id>
+        </Filters>
+    </SearchSpecification>
+    <TotalRows>24</TotalRows>
+    <Links>
+        <Link>
+            <Rel>self</Rel>
+            <Href>
+                https://api.pjm.com/api/v1/da_hrl_lmps?RowCount=50000&amp;Sort=datetime_beginning_ept&amp;Order=Desc&amp;StartRow=1&amp;IsActiveMetadata=True&amp;Fields=congestion_price_da%2Cdatetime_beginning_ept%2Cdatetime_beginning_utc%2Cequipment%2Cmarginal_loss_price_da%2Cpnode_id%2Cpnode_name%2Crow_is_current%2Csystem_energy_price_da%2Ctotal_lmp_da%2Ctype%2Cversion_nbr%2Cvoltage%2Czone&amp;datetime_beginning_ept=2025-11-10T00%3A00%3A00to2025-11-10T23%3A58%3A00&amp;pnode_id=1292915420</Href>
+        </Link>
+        <Link>
+            <Rel>metadata</Rel>
+            <Href>https://api.pjm.com/api/v1/da_hrl_lmps/metadata</Href>
+        </Link>
+    </Links>
+</FeedSearchResult>
